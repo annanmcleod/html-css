@@ -1,0 +1,50 @@
+/* _________________________________________________
+** Original Code ** */
+
+body {
+    grid-gap: auto;    /* Improve the white space */
+}
+
+.content {
+    background: auto;  /* Improve the color/contrast */
+    padding: auto;     /* Improve the white space */
+}
+
+h1 {
+    margin-left: 1em;  /* Improve the alignment */
+    font-size: auto;   /* Improve the visual hierarchy */
+}
+
+/* _________________________________________________
+** My Code ** */
+
+body {
+    grid-gap: 30px;    /* Improve the white space */
+}
+
+.content {
+    background: #0044B9;  /* Improve the color/contrast */
+    padding: 15px ;     /* Improve the white space */
+}
+
+h1 {
+    margin-left: 1px;  /* Improve the alignment */
+    font-size: 38px;   /* Improve the visual hierarchy */
+}
+
+/* _________________________________________________
+** Instructor's Code ** */
+
+body {
+    grid-gap: 2em;    /* Improve the white space */
+}
+
+.content {
+    background: #0044B9;  /* Improve the color/contrast */
+    padding: 1.5em;     /* Improve the white space */
+}
+
+h1 {
+    margin-left: 0;  /* Improve the alignment */
+    font-size: 2.3em;   /* Improve the visual hierarchy */
+}

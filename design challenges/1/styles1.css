@@ -1,0 +1,66 @@
+/* ________________________________
+**Original Code** */
+
+body {
+
+}
+.content {
+
+}
+
+p.date {
+
+}
+
+h3 {
+
+}
+
+p.desc {
+
+}
+
+/* ________________________________
+**My Code** */
+
+body {
+ padding: 5%;
+}
+.content {
+ padding: 5%;
+}
+
+p.date {
+text-align: center;
+}
+
+h3 {
+text-align: center;
+}
+
+p.desc {
+text-align: center;
+}
+
+/* ________________________________
+**Instructor Code** */
+
+body {
+    padding: 2em;
+}
+.content {
+    padding: 1em;
+}
+
+p.date {
+    text-align: left;
+    margin: 0;
+}
+
+h3 {
+
+}
+
+p.desc {
+    margin-bottom: 0;
+}

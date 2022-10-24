@@ -1,0 +1,70 @@
+/* ________________________________
+**Original Code** */
+
+.container {
+
+}
+
+.card {
+
+}
+
+p.date {
+
+}
+
+h3 {
+
+}
+
+/* ________________________________
+**My Code** */
+
+.container {
+    width: 90%;
+}
+
+.card {
+    background: #2C3031;
+    padding: 25px;
+}
+
+p.date {
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #7A8587;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+h3 {
+    margin: 0 0 12px;
+    color: #B6EAFF;
+    font-size: 30px;
+}
+
+/* ___________________________
+**Instructor Code** */
+
+.container {
+    width: 90%;
+}
+
+.card {
+    background: #2C3031;
+    padding: 1.5em;
+}
+
+p.date {
+    text-transform: uppercase;
+    font-size: .75em;
+    letter-spacing: .1em;
+    color: #7A8587;
+    margin-bottom: .4em;
+}
+
+h3 {
+    margin: 0 0 .3em;
+    color: #B6EAFF;
+    font-size: 1.8em;
+}
